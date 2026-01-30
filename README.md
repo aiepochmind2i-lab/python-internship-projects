@@ -1,7 +1,4 @@
-# python-internship-projects
-A curated collection of real-world Python projects for students and fresh graduates to gain hands-on experience.
 # Python Internship Projects
-
 A curated collection of real-world Python projects designed for
 students, fresh graduates, and self-learners to gain practical
 hands-on development experience.
